@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-=======
 
 <p align="center" >
      <img width="600" heigth="600" src="/screenshot_ORG_app">
 </p>
->>>>>>> 064a21f (Update README)
+
 
 # Getting Started with Create React App
 

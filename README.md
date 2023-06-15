@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ![Mi organización app](https://vercel.com/5eab7018-1e73-4074-a527-2661647149af)
+=======
+<p align="center" >
+     <img width="600" heigth="600" src="/Screenshot-ORG-app">
+</p>
+
+>>>>>>> dc37570 (Update README)
 
 # Getting Started with Create React App
 

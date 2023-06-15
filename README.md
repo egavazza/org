@@ -1,5 +1,6 @@
-https://org-delta-lilac.vercel.app/
-
+<p align="center" >
+     <img width="600" heigth="600" src="https://org-delta-lilac.vercel.app/">
+</p>
 
 
 # Getting Started with Create React App

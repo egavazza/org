@@ -1,4 +1,4 @@
-![Mi organización app](https://org-delta-lilac.vercel.app)
+![Mi organización app](blob:https://vercel.com/5eab7018-1e73-4074-a527-2661647149af)
 
 # Getting Started with Create React App
 

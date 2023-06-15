@@ -1,8 +1,13 @@
+### Mi Organización APP
+
+Este proyecto fue realizado utilizndo __REACT__ y permite el armado de equpos definiendo sus participantes, identificando cada uno con una escala cromática distinta a elección del usuario además de poder destacar a aquellos colaboradores que querramos con una estrella.
+
 
 <p align="center" >
      <img width="600" heigth="600" src="/screenshot_ORG_app.png">
 </p>
 
+#
 
 # Getting Started with Create React App
 

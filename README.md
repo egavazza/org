@@ -1,6 +1,6 @@
 
 <p align="center" >
-     <img width="600" heigth="600" src="/screenshot_ORG_app">
+     <img width="600" heigth="600" src="/screenshot_ORG_app/">
 </p>
 
 
